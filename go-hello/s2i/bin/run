@@ -1,1 +1,1 @@
-exec /usr/libexec/s2i/run --lang es
+exec /opt/app-root/app --lang es
